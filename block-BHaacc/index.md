@@ -1,5 +1,3 @@
-writeCode
-
 - Create a layout according to the design shown below.
 
 ![Backgrounds and gradient Assignment level 1](https://raw.githubusercontent.com/suraj122/AC-STYLE-images/master/adding-media/ex-1.png)
